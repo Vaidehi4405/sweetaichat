@@ -51,5 +51,6 @@
 "priority": "facebook",
 "showAd": true,
 "toBeClicked": 1,
+"coinAdd":2,
 "totalIntro": 5
 }
