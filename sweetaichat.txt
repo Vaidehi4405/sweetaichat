@@ -52,6 +52,6 @@
 "showAd": true,
 "toBeClicked": 1,
 "coinAdd":2,
-"coinAdShow::false,
+"coinAdShow":false,
 "totalIntro": 5
 }
