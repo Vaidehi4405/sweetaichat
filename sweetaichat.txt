@@ -37,7 +37,7 @@
 "googleNativeId4": "ca-app-pub-3940256099942544/2247696110",
 "googleNativeId5": "ca-app-pub-3940256099942544/2247696110",
 "interUrl": "https://play2299.atmequiz.com/start",
-"isBackAdd": false,
+"isBackAdd": true,
 "isBackFacebookGoogleBoth": false,
 "isBannerGoogleFacebookBoth": false,
 "isComingSoon": false,
